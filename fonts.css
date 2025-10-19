@@ -1,0 +1,136 @@
+@font-face {
+    font-family: 'Avenir Light';
+    src: url('assets/fonts/AvenirLTStd-Light.woff') format('woff'),
+         url('assets/fonts/AvenirLTStd-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Ultra Light';
+    src: url('assets/fonts/Avenir-UltraLight.woff') format('woff'),
+         url('assets/fonts/Avenir-UltraLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Book';
+    src: url('assets/fonts/Avenir-Book.woff') format('woff'),
+         url('assets/fonts/Avenir-Book.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('assets/fonts/Avenir-Next.woff') format('woff'),
+         url('assets/fonts/Avenir-Next.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir NextC';
+    src: url('assets/fonts/Avenir-NextC.woff') format('woff'),
+         url('assets/fonts/Avenir-NextC.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mundial Black';
+    src: url('assets/fonts/Mundial-Black.woff') format('woff'),
+         url('assets/fonts/Mundial-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mundial Black Italic';
+    src: url('assets/fonts/Mundial-BlackItalic.woff')format('woff'),
+         url('assets/fonts/Mundial-BlackItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mundial Bold';
+    src: url('assets/fonts/Mundial-Bold.woff') format('woff'),
+         url('assets/fonts/Mundial-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mundial Bold Italic';
+    src: url('assets/fonts/Mundial-BoldItalic.woff') format('woff'),
+         url('assets/fonts/Mundial-BlackItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mundial DemiBold';
+    src: url('assets/fonts/Mundial-Demibold.woff') format('woff'),
+         url('assets/fonts/Mundial-Demibold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Mundial DemiBold Italic';
+    src: url('assets/fonts/Mundial-DemiboldItalic.woff') format('woff'),
+         url('assets/fonts/Mundial-DemiboldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mundial Italic';
+    src: url('assets/fonts/Mundial-Italic.woff') format('woff'),
+         url('assets/fonts/Mundial-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mundial Light';
+    src: url('assets/fonts/Mundial-Light.woff') format('woff'),
+         url('assets/fonts/Mundial-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mundial Light Italic';
+    src: url('assets/fonts/Mundial-LightItalic.woff') format('woff'),
+         url('assets/fonts/Mundial-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mundial Regular';
+    src: url('assets/fonts/Mundial-Regular.woff') format('woff'),
+         url('assets/fonts/Mundial-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mundial Thin';
+    src: url('assets/fonts/Mundial-Thin.woff') format('woff'),
+         url('assets/fonts/Mundial-Thin.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mundial Thin Italic';
+    src: url('assets/fonts/Mundial-ThinItalic.woff') format('woff'),
+         url('assets/fonts/Mundial-ThinItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
